@@ -30,5 +30,3 @@ The project recommends the **top 3 posts for each user** by leveraging their pro
 
 
 
-# Navigate into the repository
-cd <repo-name>
